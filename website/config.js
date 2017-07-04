@@ -1,6 +1,6 @@
-var api = "http://185.166.239.22:8118";
+var api = "http://142.4.211.158:8118";
 
-var poolHost = "185.166.239.22";
+var poolHost = "142.4.211.158";
 
 var irc = "irc.freenode.net/#aeon";
 
